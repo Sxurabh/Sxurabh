@@ -1,37 +1,66 @@
-<h1 align="center">Hey 👋, I'm Saurabh</h1>
-<h3 align="center">MERN Stack Dev👾</h3>
-<link rel="stylesheet" href="style.css">
-
-
-- 🔭 I’m currently working on **E-commerce WebApp**
-
-- 🌱 I’m currently learning **MERN Stack**
-
-- 🤝 I’m looking for help with **Real time chat App**
-
-- 👨‍💻 All of my projects are available at [https://saurabh.is-a-fullstack.dev](https://saurabh.is-a-fullstack.dev)
-
-- 📝 I regularly write articles on [https://dev.to/berzcode](https://dev.to/berzcode)
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **saurabhkirve@gmail.com**
-
-- ⚡ Fun fact **ChatGPT ftw✌️**
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/BerzCode/BerzCode/blob/main/devcard.svg" width="400" alt="BerzCode's Dev Card"/></a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/berzcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="berzcode" height="30" width="40" /></a>
-<a href="https://twitter.com/sxurxbh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sxurxbh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saurabhworks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabhworks" height="30" width="40" /></a>
-<a href="https://instagram.com/whosaurabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whosaurabh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/saurabhkirve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saurabhkirve" height="30" width="40" /></a>
+<h1 align="center">Hey, I'm Saurabh Kirve 👋</h1>
+<p align="center">
+  <b>Data Analyst | Visualization Enthusiast | Automation Explorer</b><br />
+  👨‍💻 Currently @ <a href="https://www.sganalytics.com/">SG Analytics</a> | Fintech | Pune, India<br />
+  🚀 Building digital experiences at the intersection of data, technology, and human behavior
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berzcode&show_icons=true&locale=en&layout=compact" alt="berzcode" /></p>
+### 🚩 About Me
+- Associate Analyst with 3+ years experience in fintech & analytics
+- Specialize in data wrangling, dashboarding, and insights storytelling
+- Interested in automation, new tech, and stock market analysis
+- Always learning—AI, R, Python, SQL, and cloud tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berzcode&show_icons=true&locale=en" alt="berzcode" /></p>
+---
+
+### 🛠️ Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-003545?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-0094C7?style=for-the-badge&logo=r&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![MS Office](https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+---
+
+### ✨ Selected Projects
+
+- **[Sales Dashboard](https://github.com/Sxurabh/sales-dashboard)** – Interactive one-sheet Excel dashboard for sales data
+- **[Renewable Energy Explorer](https://github.com/Sxurabh/renewable-energy-insights-dashboard)** – R Shiny dashboard with dplyr, plotly, ggplot2
+- **[Personal Portfolio](https://github.com/Sxurabh/personal-portfolio)** – Built using Next.js, Prisma, TailwindCSS, NeonDB
+
+Check out live portfolio: [saurabh-data-analyst.vercel.app](https://saurabh-data-analyst.vercel.app/)
+
+---
+
+### 🏆 Certifications
+
+- [Advanced SQL (Kaggle)](https://www.kaggle.com/learn/certification/saurabhkirve/advanced-sql)
+- [Lean Six Sigma White Belt (CSSC)](https://www.sixsigmacouncil.org/certificate/VXw40YCLDe)
+- [Python (Basic) – HackerRank](https://www.hackerrank.com/certificates/89b501615c71)
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Sxurabh"><img src="https://img.shields.io/badge/GitHub-222?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/saurabhkirve/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/sxurxbh"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.instagram.com/whosaurabh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <i>Let’s talk data, tech, or share ideas! Always open to collaborations and cool opportunities.</i>
+</p>
